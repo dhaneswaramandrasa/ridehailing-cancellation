@@ -1,6 +1,0 @@
-user_id,total_rides,total_spending,avg_spending,first_ride_time,last_ride_time,total_cancelled,total_low_ratings,avg_rating,recency_days_fractional,last_ride_date,cancellation_rate,low_rating_rate,freq_segment,spend_segment,user_segment,potential_churn
-U1,4,35.0,8.75,2025-01-01 08:00:00,2025-01-01 23:00:00,0,0,5.0,4.0,2025-01-01,0.0,0.0,Low Freq,Low Spend,Low Freq - Low Spend,True
-U2,4,37.0,9.25,2025-01-01 09:00:00,2025-01-02 00:00:00,0,0,4.0,3.0,2025-01-02,0.0,0.0,Low Freq,Low Spend,Low Freq - Low Spend,False
-U3,4,39.0,9.75,2025-01-01 10:00:00,2025-01-02 01:00:00,4,0,3.0,2.0,2025-01-02,1.0,0.0,Med-Low Freq,Med-Low Spend,Med-Low Freq - Med-Low Spend,False
-U4,4,41.0,10.25,2025-01-01 11:00:00,2025-01-02 02:00:00,0,4,2.0,1.0,2025-01-02,0.0,1.0,Med-High Freq,Med-High Spend,Med-High Freq - Med-High Spend,False
-U5,4,43.0,10.75,2025-01-01 12:00:00,2025-01-02 03:00:00,0,4,1.0,0.0,2025-01-02,0.0,1.0,High Freq,High Spend,High Freq - High Spend,False
